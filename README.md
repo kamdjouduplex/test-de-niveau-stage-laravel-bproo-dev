@@ -26,5 +26,7 @@ Si, on clique sur un challenge ont devrais voir details du projet comme aussi mo
 
 ## Vous avez maxi 2 semaime pour realiser ce projet test.
 
+Une fois que votre travail est termine metter la sur github et partage le lien avec moi.
+
 
 merci!
